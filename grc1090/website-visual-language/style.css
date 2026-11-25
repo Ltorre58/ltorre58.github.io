@@ -263,9 +263,9 @@ nav ul li a {
 }
 
 nav ul li a.active {
-	background-color: rgb(163, , 115);
+	background-color: rgb(23, 88, 55);
 	border-color: rgb(163, 98, 48);
-	color: #ffffff;
+	color: #b27d1c;
 }
 
 
